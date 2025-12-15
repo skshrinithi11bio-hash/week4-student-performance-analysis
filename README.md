@@ -26,3 +26,19 @@ The dataset is created and stored in Google Drive and accessed through Google Co
 ---
 
 ##  Project Structure
+week4-student-performance-analysis/
+│
+├── README.md
+├── analysis.ipynb
+├── main.py
+├── requirements.txt
+│
+├── data/
+│ └── student_performance.csv
+│
+├── visualizations/
+│ ├── avg_marks_student.png
+│ └── subject_avg.png
+│
+└── report/
+└── analysis_report.md
